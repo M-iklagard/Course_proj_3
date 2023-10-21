@@ -15,9 +15,9 @@ from coord import get_coord
 from weather_info import show_current_weather, show_forecast, show_forecast_by_date
 
 # telegram token
-TOKEN = "6361419585:AAFSJwZxG7WOp96PazxiibAt48J5STMmy3A"
+TOKEN = ""
 # open weather token
-API_KEY = "f7cb430e537fdb4174df8d87ac0d42e3"
+API_KEY = ""
 
 dp = Dispatcher()
 form_router = Router()
